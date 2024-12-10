@@ -1,0 +1,2 @@
+2024-12-10 19:04:41,727 - data_ingestion - ERROR - File not found: params.yaml
+2024-12-10 19:04:41,728 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
